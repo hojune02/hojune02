@@ -1,6 +1,6 @@
 # Hojune Kim
 
-I'm a computer science student at KAIST. I like tracing a feature from the screen someone uses down to the data, systems, and failure modes underneath it. My projects span web applications, local AI tools, systems coursework, and security research.
+I'm a computer science student at KAIST building web services and tools around AI agents. I like taking an idea through the whole stack: interface, API, data, model behavior, and the failures in between.
 
 ## Selected work
 
