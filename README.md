@@ -13,4 +13,4 @@ I'm a computer science student at KAIST. I like tracing a feature from the scree
 
 Research Agent includes saved evaluation inputs and outputs so its answers can be inspected. The geopolitical platform documents how incoming event records are parsed and stored. Follow the repositories for current scope, implementation, and limits.
 
-[Portfolio](https://github.com/hojune02/hojune-portfolio) · [LinkedIn](https://www.linkedin.com/in/hojune-kim/)
+[Portfolio](https://hojunekim.dev/) · [LinkedIn](https://www.linkedin.com/in/hojune-kim/)
